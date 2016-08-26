@@ -1,0 +1,12 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: move_to_service
+    display_name: move_to_service
+    description: 
+    scope: instance
+    language: ruby
+    location: inline
+  inputs: []
